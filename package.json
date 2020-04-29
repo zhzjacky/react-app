@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "mace",
   "license": "ISC",
   "dependencies": {
     "debug": "^4.1.1",
